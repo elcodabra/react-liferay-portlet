@@ -1,0 +1,5 @@
+Bundle-Name: react-front
+Bundle-SymbolicName: com.example.liferay.react
+Bundle-Version: 1.0.0
+Web-ContextPath: /react-front
+-sources: true

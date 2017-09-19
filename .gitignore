@@ -1,0 +1,7 @@
+.gradle/
+build/
+target/
+.idea
+*.iml
+node_modules
+src/main/resources/META-INF/resources/dist
